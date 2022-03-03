@@ -1,4 +1,3 @@
-from flask import Flask, request, jsonify
 import sqlalchemy as db
 from fastapi import FastAPI
 
